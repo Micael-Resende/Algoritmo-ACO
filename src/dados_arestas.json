@@ -1,0 +1,1514 @@
+{
+    "Abadia dos Dourados-\u00c1guas Formosas": {
+        "distancia": 1100558,
+        "duracao": 55653
+    },
+    "Abadia dos Dourados-Arapu\u00e1": {
+        "distancia": 219262,
+        "duracao": 10860
+    },
+    "Abadia dos Dourados-Arax\u00e1": {
+        "distancia": 204198,
+        "duracao": 10331
+    },
+    "Abadia dos Dourados-Belo Horizonte": {
+        "distancia": 517424,
+        "duracao": 25913
+    },
+    "Abadia dos Dourados-Campina Verde": {
+        "distancia": 295533,
+        "duracao": 13804
+    },
+    "Abadia dos Dourados-Campos Altos": {
+        "distancia": 245298,
+        "duracao": 12470
+    },
+    "Abadia dos Dourados-Carmo do Parana\u00edba": {
+        "distancia": 193733,
+        "duracao": 9853
+    },
+    "Abadia dos Dourados-Coromandel": {
+        "distancia": 23343,
+        "duracao": 1413
+    },
+    "Abadia dos Dourados-Cruzeiro da Fortaleza": {
+        "distancia": 125610,
+        "duracao": 6444
+    },
+    "Abadia dos Dourados-Frutal": {
+        "distancia": 312000,
+        "duracao": 15346
+    },
+    "Abadia dos Dourados-Guimar\u00e2nia": {
+        "distancia": 102911,
+        "duracao": 5214
+    },
+    "Abadia dos Dourados-Ira\u00ed de Minas": {
+        "distancia": 72347,
+        "duracao": 3681
+    },
+    "Abadia dos Dourados-Itapagipe": {
+        "distancia": 350788,
+        "duracao": 17181
+    },
+    "Abadia dos Dourados-Jo\u00e3o Pinheiro": {
+        "distancia": 223456,
+        "duracao": 11652
+    },
+    "Abadia dos Dourados-Lagoa Formosa": {
+        "distancia": 161431,
+        "duracao": 8195
+    },
+    "Abadia dos Dourados-Luz": {
+        "distancia": 317753,
+        "duracao": 15577
+    },
+    "Abadia dos Dourados-Patos de Minas": {
+        "distancia": 145175,
+        "duracao": 7529
+    },
+    "Abadia dos Dourados-Patroc\u00ednio": {
+        "distancia": 102969,
+        "duracao": 5424
+    },
+    "Abadia dos Dourados-Presidente Oleg\u00e1rio": {
+        "distancia": 139426,
+        "duracao": 8014
+    },
+    "Abadia dos Dourados-Rio Parana\u00edba": {
+        "distancia": 197044,
+        "duracao": 9974
+    },
+    "Abadia dos Dourados-Romaria": {
+        "distancia": 52216,
+        "duracao": 2756
+    },
+    "Abadia dos Dourados-Santa Vit\u00f3ria": {
+        "distancia": 346840,
+        "duracao": 16052
+    },
+    "Abadia dos Dourados-S\u00e3o Gotardo": {
+        "distancia": 234375,
+        "duracao": 11832
+    },
+    "Abadia dos Dourados-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 890778,
+        "duracao": 44573
+    },
+    "Abadia dos Dourados-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 194342,
+        "duracao": 9954
+    },
+    "Abadia dos Dourados-Tiros": {
+        "distancia": 241072,
+        "duracao": 12565
+    },
+    "Abadia dos Dourados-Uberaba": {
+        "distancia": 181335,
+        "duracao": 9414
+    },
+    "\u00c1guas Formosas-Arapu\u00e1": {
+        "distancia": 923414,
+        "duracao": 47523
+    },
+    "\u00c1guas Formosas-Arax\u00e1": {
+        "distancia": 949697,
+        "duracao": 49250
+    },
+    "\u00c1guas Formosas-Belo Horizonte": {
+        "distancia": 591169,
+        "duracao": 32225
+    },
+    "\u00c1guas Formosas-Campina Verde": {
+        "distancia": 1264346,
+        "duracao": 63602
+    },
+    "\u00c1guas Formosas-Campos Altos": {
+        "distancia": 858016,
+        "duracao": 44768
+    },
+    "\u00c1guas Formosas-Carmo do Parana\u00edba": {
+        "distancia": 933682,
+        "duracao": 48032
+    },
+    "\u00c1guas Formosas-Coromandel": {
+        "distancia": 1082821,
+        "duracao": 53282
+    },
+    "\u00c1guas Formosas-Cruzeiro da Fortaleza": {
+        "distancia": 982153,
+        "duracao": 50180
+    },
+    "\u00c1guas Formosas-Frutal": {
+        "distancia": 1187748,
+        "duracao": 60703
+    },
+    "\u00c1guas Formosas-Guimar\u00e2nia": {
+        "distancia": 1016551,
+        "duracao": 50106
+    },
+    "\u00c1guas Formosas-Ira\u00ed de Minas": {
+        "distancia": 1094199,
+        "duracao": 53914
+    },
+    "\u00c1guas Formosas-Itapagipe": {
+        "distancia": 1239437,
+        "duracao": 63031
+    },
+    "\u00c1guas Formosas-Jo\u00e3o Pinheiro": {
+        "distancia": 919277,
+        "duracao": 44973
+    },
+    "\u00c1guas Formosas-Lagoa Formosa": {
+        "distancia": 986688,
+        "duracao": 48525
+    },
+    "\u00c1guas Formosas-Luz": {
+        "distancia": 788453,
+        "duracao": 41053
+    },
+    "\u00c1guas Formosas-Patos de Minas": {
+        "distancia": 972946,
+        "duracao": 48016
+    },
+    "\u00c1guas Formosas-Patroc\u00ednio": {
+        "distancia": 1034603,
+        "duracao": 51135
+    },
+    "\u00c1guas Formosas-Presidente Oleg\u00e1rio": {
+        "distancia": 988871,
+        "duracao": 49010
+    },
+    "\u00c1guas Formosas-Rio Parana\u00edba": {
+        "distancia": 906341,
+        "duracao": 46715
+    },
+    "\u00c1guas Formosas-Romaria": {
+        "distancia": 1109715,
+        "duracao": 54497
+    },
+    "\u00c1guas Formosas-Santa Vit\u00f3ria": {
+        "distancia": 1331179,
+        "duracao": 66630
+    },
+    "\u00c1guas Formosas-S\u00e3o Gotardo": {
+        "distancia": 892678,
+        "duracao": 46396
+    },
+    "\u00c1guas Formosas-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 421618,
+        "duracao": 22066
+    },
+    "\u00c1guas Formosas-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 934195,
+        "duracao": 48156
+    },
+    "\u00c1guas Formosas-Tiros": {
+        "distancia": 911659,
+        "duracao": 47444
+    },
+    "\u00c1guas Formosas-Uberaba": {
+        "distancia": 1063082,
+        "duracao": 55295
+    },
+    "Arapu\u00e1-Arax\u00e1": {
+        "distancia": 164081,
+        "duracao": 8290
+    },
+    "Arapu\u00e1-Belo Horizonte": {
+        "distancia": 336832,
+        "duracao": 16944
+    },
+    "Arapu\u00e1-Campina Verde": {
+        "distancia": 447614,
+        "duracao": 21066
+    },
+    "Arapu\u00e1-Campos Altos": {
+        "distancia": 96079,
+        "duracao": 4548
+    },
+    "Arapu\u00e1-Carmo do Parana\u00edba": {
+        "distancia": 31577,
+        "duracao": 1806
+    },
+    "Arapu\u00e1-Coromandel": {
+        "distancia": 192841,
+        "duracao": 9488
+    },
+    "Arapu\u00e1-Cruzeiro da Fortaleza": {
+        "distancia": 114298,
+        "duracao": 5428
+    },
+    "Arapu\u00e1-Frutal": {
+        "distancia": 402132,
+        "duracao": 19743
+    },
+    "Arapu\u00e1-Guimar\u00e2nia": {
+        "distancia": 126571,
+        "duracao": 6312
+    },
+    "Arapu\u00e1-Ira\u00ed de Minas": {
+        "distancia": 204219,
+        "duracao": 10120
+    },
+    "Arapu\u00e1-Itapagipe": {
+        "distancia": 453821,
+        "duracao": 22071
+    },
+    "Arapu\u00e1-Jo\u00e3o Pinheiro": {
+        "distancia": 230309,
+        "duracao": 10935
+    },
+    "Arapu\u00e1-Lagoa Formosa": {
+        "distancia": 58873,
+        "duracao": 2856
+    },
+    "Arapu\u00e1-Luz": {
+        "distancia": 137162,
+        "duracao": 6608
+    },
+    "Arapu\u00e1-Patos de Minas": {
+        "distancia": 82758,
+        "duracao": 4175
+    },
+    "Arapu\u00e1-Patroc\u00ednio": {
+        "distancia": 138551,
+        "duracao": 7066
+    },
+    "Arapu\u00e1-Presidente Oleg\u00e1rio": {
+        "distancia": 108376,
+        "duracao": 5581
+    },
+    "Arapu\u00e1-Rio Parana\u00edba": {
+        "distancia": 38485,
+        "duracao": 1963
+    },
+    "Arapu\u00e1-Romaria": {
+        "distancia": 219735,
+        "duracao": 10703
+    },
+    "Arapu\u00e1-Santa Vit\u00f3ria": {
+        "distancia": 498921,
+        "duracao": 23314
+    },
+    "Arapu\u00e1-S\u00e3o Gotardo": {
+        "distancia": 53783,
+        "duracao": 2863
+    },
+    "Arapu\u00e1-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 825223,
+        "duracao": 41043
+    },
+    "Arapu\u00e1-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 32090,
+        "duracao": 1929
+    },
+    "Arapu\u00e1-Tiros": {
+        "distancia": 33963,
+        "duracao": 2587
+    },
+    "Arapu\u00e1-Uberaba": {
+        "distancia": 277466,
+        "duracao": 14335
+    },
+    "Arax\u00e1-Belo Horizonte": {
+        "distancia": 362939,
+        "duracao": 18993
+    },
+    "Arax\u00e1-Campina Verde": {
+        "distancia": 317443,
+        "duracao": 14851
+    },
+    "Arax\u00e1-Campos Altos": {
+        "distancia": 97016,
+        "duracao": 5387
+    },
+    "Arax\u00e1-Carmo do Parana\u00edba": {
+        "distancia": 131450,
+        "duracao": 7645
+    },
+    "Arax\u00e1-Coromandel": {
+        "distancia": 178118,
+        "duracao": 9043
+    },
+    "Arax\u00e1-Cruzeiro da Fortaleza": {
+        "distancia": 100648,
+        "duracao": 5144
+    },
+    "Arax\u00e1-Frutal": {
+        "distancia": 240844,
+        "duracao": 11952
+    },
+    "Arax\u00e1-Guimar\u00e2nia": {
+        "distancia": 123469,
+        "duracao": 6405
+    },
+    "Arax\u00e1-Ira\u00ed de Minas": {
+        "distancia": 152819,
+        "duracao": 7818
+    },
+    "Arax\u00e1-Itapagipe": {
+        "distancia": 292534,
+        "duracao": 14280
+    },
+    "Arax\u00e1-Jo\u00e3o Pinheiro": {
+        "distancia": 306536,
+        "duracao": 14779
+    },
+    "Arax\u00e1-Lagoa Formosa": {
+        "distancia": 172102,
+        "duracao": 8509
+    },
+    "Arax\u00e1-Luz": {
+        "distancia": 163269,
+        "duracao": 8657
+    },
+    "Arax\u00e1-Patos de Minas": {
+        "distancia": 155846,
+        "duracao": 7843
+    },
+    "Arax\u00e1-Patroc\u00ednio": {
+        "distancia": 106815,
+        "duracao": 5639
+    },
+    "Arax\u00e1-Presidente Oleg\u00e1rio": {
+        "distancia": 184602,
+        "duracao": 9425
+    },
+    "Arax\u00e1-Rio Parana\u00edba": {
+        "distancia": 135813,
+        "duracao": 6498
+    },
+    "Arax\u00e1-Romaria": {
+        "distancia": 164879,
+        "duracao": 8353
+    },
+    "Arax\u00e1-Santa Vit\u00f3ria": {
+        "distancia": 384276,
+        "duracao": 17879
+    },
+    "Arax\u00e1-S\u00e3o Gotardo": {
+        "distancia": 133888,
+        "duracao": 7362
+    },
+    "Arax\u00e1-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 901449,
+        "duracao": 44887
+    },
+    "Arax\u00e1-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 131026,
+        "duracao": 7554
+    },
+    "Arax\u00e1-Tiros": {
+        "distancia": 178550,
+        "duracao": 9658
+    },
+    "Arax\u00e1-Uberaba": {
+        "distancia": 116179,
+        "duracao": 6544
+    },
+    "Belo Horizonte-Campina Verde": {
+        "distancia": 676935,
+        "duracao": 32550
+    },
+    "Belo Horizonte-Campos Altos": {
+        "distancia": 270606,
+        "duracao": 13716
+    },
+    "Belo Horizonte-Carmo do Parana\u00edba": {
+        "distancia": 346271,
+        "duracao": 16981
+    },
+    "Belo Horizonte-Coromandel": {
+        "distancia": 483208,
+        "duracao": 24017
+    },
+    "Belo Horizonte-Cruzeiro da Fortaleza": {
+        "distancia": 394743,
+        "duracao": 19129
+    },
+    "Belo Horizonte-Frutal": {
+        "distancia": 600337,
+        "duracao": 29652
+    },
+    "Belo Horizonte-Guimar\u00e2nia": {
+        "distancia": 417564,
+        "duracao": 20389
+    },
+    "Belo Horizonte-Ira\u00ed de Minas": {
+        "distancia": 474859,
+        "duracao": 23562
+    },
+    "Belo Horizonte-Itapagipe": {
+        "distancia": 652027,
+        "duracao": 31979
+    },
+    "Belo Horizonte-Jo\u00e3o Pinheiro": {
+        "distancia": 400335,
+        "duracao": 18550
+    },
+    "Belo Horizonte-Lagoa Formosa": {
+        "distancia": 373568,
+        "duracao": 18032
+    },
+    "Belo Horizonte-Luz": {
+        "distancia": 201042,
+        "duracao": 10002
+    },
+    "Belo Horizonte-Patos de Minas": {
+        "distancia": 397452,
+        "duracao": 19350
+    },
+    "Belo Horizonte-Patroc\u00ednio": {
+        "distancia": 411905,
+        "duracao": 20613
+    },
+    "Belo Horizonte-Presidente Oleg\u00e1rio": {
+        "distancia": 423071,
+        "duracao": 20756
+    },
+    "Belo Horizonte-Rio Parana\u00edba": {
+        "distancia": 318930,
+        "duracao": 15663
+    },
+    "Belo Horizonte-Romaria": {
+        "distancia": 490375,
+        "duracao": 24145
+    },
+    "Belo Horizonte-Santa Vit\u00f3ria": {
+        "distancia": 743769,
+        "duracao": 35578
+    },
+    "Belo Horizonte-S\u00e3o Gotardo": {
+        "distancia": 305268,
+        "duracao": 15344
+    },
+    "Belo Horizonte-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 774242,
+        "duracao": 39250
+    },
+    "Belo Horizonte-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 346785,
+        "duracao": 17104
+    },
+    "Belo Horizonte-Tiros": {
+        "distancia": 349929,
+        "duracao": 17640
+    },
+    "Belo Horizonte-Uberaba": {
+        "distancia": 475672,
+        "duracao": 24244
+    },
+    "Campina Verde-Campos Altos": {
+        "distancia": 411670,
+        "duracao": 20198
+    },
+    "Campina Verde-Carmo do Parana\u00edba": {
+        "distancia": 421813,
+        "duracao": 20450
+    },
+    "Campina Verde-Coromandel": {
+        "distancia": 319282,
+        "duracao": 15455
+    },
+    "Campina Verde-Cruzeiro da Fortaleza": {
+        "distancia": 353690,
+        "duracao": 17040
+    },
+    "Campina Verde-Frutal": {
+        "distancia": 106789,
+        "duracao": 5174
+    },
+    "Campina Verde-Guimar\u00e2nia": {
+        "distancia": 330991,
+        "duracao": 15811
+    },
+    "Campina Verde-Ira\u00ed de Minas": {
+        "distancia": 254840,
+        "duracao": 12121
+    },
+    "Campina Verde-Itapagipe": {
+        "distancia": 56756,
+        "duracao": 3595
+    },
+    "Campina Verde-Jo\u00e3o Pinheiro": {
+        "distancia": 523944,
+        "duracao": 25062
+    },
+    "Campina Verde-Lagoa Formosa": {
+        "distancia": 389511,
+        "duracao": 18791
+    },
+    "Campina Verde-Luz": {
+        "distancia": 477923,
+        "duracao": 23467
+    },
+    "Campina Verde-Patos de Minas": {
+        "distancia": 373255,
+        "duracao": 18126
+    },
+    "Campina Verde-Patroc\u00ednio": {
+        "distancia": 306783,
+        "duracao": 14664
+    },
+    "Campina Verde-Presidente Oleg\u00e1rio": {
+        "distancia": 402011,
+        "duracao": 19708
+    },
+    "Campina Verde-Rio Parana\u00edba": {
+        "distancia": 404832,
+        "duracao": 19450
+    },
+    "Campina Verde-Romaria": {
+        "distancia": 246039,
+        "duracao": 11756
+    },
+    "Campina Verde-Santa Vit\u00f3ria": {
+        "distancia": 132017,
+        "duracao": 6288
+    },
+    "Campina Verde-S\u00e3o Gotardo": {
+        "distancia": 442163,
+        "duracao": 21308
+    },
+    "Campina Verde-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 1118858,
+        "duracao": 55170
+    },
+    "Campina Verde-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 422422,
+        "duracao": 20551
+    },
+    "Campina Verde-Tiros": {
+        "distancia": 464149,
+        "duracao": 22885
+    },
+    "Campina Verde-Uberaba": {
+        "distancia": 205022,
+        "duracao": 9698
+    },
+    "Campos Altos-Carmo do Parana\u00edba": {
+        "distancia": 106403,
+        "duracao": 5193
+    },
+    "Campos Altos-Coromandel": {
+        "distancia": 217385,
+        "duracao": 10926
+    },
+    "Campos Altos-Cruzeiro da Fortaleza": {
+        "distancia": 139915,
+        "duracao": 7027
+    },
+    "Campos Altos-Frutal": {
+        "distancia": 334514,
+        "duracao": 16561
+    },
+    "Campos Altos-Guimar\u00e2nia": {
+        "distancia": 162736,
+        "duracao": 8288
+    },
+    "Campos Altos-Ira\u00ed de Minas": {
+        "distancia": 209036,
+        "duracao": 10471
+    },
+    "Campos Altos-Itapagipe": {
+        "distancia": 386203,
+        "duracao": 18889
+    },
+    "Campos Altos-Jo\u00e3o Pinheiro": {
+        "distancia": 305135,
+        "duracao": 14323
+    },
+    "Campos Altos-Lagoa Formosa": {
+        "distancia": 133699,
+        "duracao": 6244
+    },
+    "Campos Altos-Luz": {
+        "distancia": 71296,
+        "duracao": 3945
+    },
+    "Campos Altos-Patos de Minas": {
+        "distancia": 157584,
+        "duracao": 7563
+    },
+    "Campos Altos-Patroc\u00ednio": {
+        "distancia": 146081,
+        "duracao": 7522
+    },
+    "Campos Altos-Presidente Oleg\u00e1rio": {
+        "distancia": 183202,
+        "duracao": 8969
+    },
+    "Campos Altos-Rio Parana\u00edba": {
+        "distancia": 79061,
+        "duracao": 3876
+    },
+    "Campos Altos-Romaria": {
+        "distancia": 224552,
+        "duracao": 11054
+    },
+    "Campos Altos-Santa Vit\u00f3ria": {
+        "distancia": 477945,
+        "duracao": 22487
+    },
+    "Campos Altos-S\u00e3o Gotardo": {
+        "distancia": 65399,
+        "duracao": 3557
+    },
+    "Campos Altos-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 900049,
+        "duracao": 44431
+    },
+    "Campos Altos-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 106916,
+        "duracao": 5317
+    },
+    "Campos Altos-Tiros": {
+        "distancia": 110060,
+        "duracao": 5853
+    },
+    "Campos Altos-Uberaba": {
+        "distancia": 209848,
+        "duracao": 11153
+    },
+    "Carmo do Parana\u00edba-Coromandel": {
+        "distancia": 167543,
+        "duracao": 8504
+    },
+    "Carmo do Parana\u00edba-Cruzeiro da Fortaleza": {
+        "distancia": 51239,
+        "duracao": 3973
+    },
+    "Carmo do Parana\u00edba-Frutal": {
+        "distancia": 369169,
+        "duracao": 19070
+    },
+    "Carmo do Parana\u00edba-Guimar\u00e2nia": {
+        "distancia": 101273,
+        "duracao": 5328
+    },
+    "Carmo do Parana\u00edba-Ira\u00ed de Minas": {
+        "distancia": 178921,
+        "duracao": 9136
+    },
+    "Carmo do Parana\u00edba-Itapagipe": {
+        "distancia": 420859,
+        "duracao": 21398
+    },
+    "Carmo do Parana\u00edba-Jo\u00e3o Pinheiro": {
+        "distancia": 205012,
+        "duracao": 9951
+    },
+    "Carmo do Parana\u00edba-Lagoa Formosa": {
+        "distancia": 33576,
+        "duracao": 1872
+    },
+    "Carmo do Parana\u00edba-Luz": {
+        "distancia": 147001,
+        "duracao": 7071
+    },
+    "Carmo do Parana\u00edba-Patos de Minas": {
+        "distancia": 57460,
+        "duracao": 3191
+    },
+    "Carmo do Parana\u00edba-Patroc\u00ednio": {
+        "distancia": 119326,
+        "duracao": 6357
+    },
+    "Carmo do Parana\u00edba-Presidente Oleg\u00e1rio": {
+        "distancia": 83079,
+        "duracao": 4597
+    },
+    "Carmo do Parana\u00edba-Rio Parana\u00edba": {
+        "distancia": 48324,
+        "duracao": 2426
+    },
+    "Carmo do Parana\u00edba-Romaria": {
+        "distancia": 194438,
+        "duracao": 9719
+    },
+    "Carmo do Parana\u00edba-Santa Vit\u00f3ria": {
+        "distancia": 473624,
+        "duracao": 22330
+    },
+    "Carmo do Parana\u00edba-S\u00e3o Gotardo": {
+        "distancia": 63622,
+        "duracao": 3326
+    },
+    "Carmo do Parana\u00edba-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 799925,
+        "duracao": 40059
+    },
+    "Carmo do Parana\u00edba-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 927,
+        "duracao": 170
+    },
+    "Carmo do Parana\u00edba-Tiros": {
+        "distancia": 53526,
+        "duracao": 3511
+    },
+    "Carmo do Parana\u00edba-Uberaba": {
+        "distancia": 244503,
+        "duracao": 13662
+    },
+    "Coromandel-Cruzeiro da Fortaleza": {
+        "distancia": 99017,
+        "duracao": 5096
+    },
+    "Coromandel-Frutal": {
+        "distancia": 335800,
+        "duracao": 16738
+    },
+    "Coromandel-Guimar\u00e2nia": {
+        "distancia": 76318,
+        "duracao": 3866
+    },
+    "Coromandel-Ira\u00ed de Minas": {
+        "distancia": 96147,
+        "duracao": 5073
+    },
+    "Coromandel-Itapagipe": {
+        "distancia": 374588,
+        "duracao": 18573
+    },
+    "Coromandel-Jo\u00e3o Pinheiro": {
+        "distancia": 204671,
+        "duracao": 10908
+    },
+    "Coromandel-Lagoa Formosa": {
+        "distancia": 134838,
+        "duracao": 6847
+    },
+    "Coromandel-Luz": {
+        "distancia": 291161,
+        "duracao": 14230
+    },
+    "Coromandel-Patos de Minas": {
+        "distancia": 118583,
+        "duracao": 6182
+    },
+    "Coromandel-Patroc\u00ednio": {
+        "distancia": 76376,
+        "duracao": 4076
+    },
+    "Coromandel-Presidente Oleg\u00e1rio": {
+        "distancia": 147339,
+        "duracao": 7764
+    },
+    "Coromandel-Rio Parana\u00edba": {
+        "distancia": 170451,
+        "duracao": 8626
+    },
+    "Coromandel-Romaria": {
+        "distancia": 76016,
+        "duracao": 4148
+    },
+    "Coromandel-Santa Vit\u00f3ria": {
+        "distancia": 370640,
+        "duracao": 17445
+    },
+    "Coromandel-S\u00e3o Gotardo": {
+        "distancia": 207782,
+        "duracao": 10484
+    },
+    "Coromandel-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 864185,
+        "duracao": 43226
+    },
+    "Coromandel-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 167749,
+        "duracao": 8607
+    },
+    "Coromandel-Tiros": {
+        "distancia": 214479,
+        "duracao": 11218
+    },
+    "Coromandel-Uberaba": {
+        "distancia": 205135,
+        "duracao": 10806
+    },
+    "Cruzeiro da Fortaleza-Frutal": {
+        "distancia": 338119,
+        "duracao": 16606
+    },
+    "Cruzeiro da Fortaleza-Guimar\u00e2nia": {
+        "distancia": 23001,
+        "duracao": 1311
+    },
+    "Cruzeiro da Fortaleza-Ira\u00ed de Minas": {
+        "distancia": 110195,
+        "duracao": 6025
+    },
+    "Cruzeiro da Fortaleza-Itapagipe": {
+        "distancia": 389809,
+        "duracao": 18934
+    },
+    "Cruzeiro da Fortaleza-Jo\u00e3o Pinheiro": {
+        "distancia": 208587,
+        "duracao": 10591
+    },
+    "Cruzeiro da Fortaleza-Lagoa Formosa": {
+        "distancia": 74153,
+        "duracao": 4320
+    },
+    "Cruzeiro da Fortaleza-Luz": {
+        "distancia": 195580,
+        "duracao": 9282
+    },
+    "Cruzeiro da Fortaleza-Patos de Minas": {
+        "distancia": 57898,
+        "duracao": 3655
+    },
+    "Cruzeiro da Fortaleza-Patroc\u00ednio": {
+        "distancia": 50600,
+        "duracao": 3246
+    },
+    "Cruzeiro da Fortaleza-Presidente Oleg\u00e1rio": {
+        "distancia": 86654,
+        "duracao": 5236
+    },
+    "Cruzeiro da Fortaleza-Rio Parana\u00edba": {
+        "distancia": 74870,
+        "duracao": 3679
+    },
+    "Cruzeiro da Fortaleza-Romaria": {
+        "distancia": 125711,
+        "duracao": 6608
+    },
+    "Cruzeiro da Fortaleza-Santa Vit\u00f3ria": {
+        "distancia": 404898,
+        "duracao": 19219
+    },
+    "Cruzeiro da Fortaleza-S\u00e3o Gotardo": {
+        "distancia": 112201,
+        "duracao": 5537
+    },
+    "Cruzeiro da Fortaleza-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 803501,
+        "duracao": 40699
+    },
+    "Cruzeiro da Fortaleza-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 50536,
+        "duracao": 3969
+    },
+    "Cruzeiro da Fortaleza-Tiros": {
+        "distancia": 134187,
+        "duracao": 7114
+    },
+    "Cruzeiro da Fortaleza-Uberaba": {
+        "distancia": 213453,
+        "duracao": 11198
+    },
+    "Frutal-Guimar\u00e2nia": {
+        "distancia": 335730,
+        "duracao": 17008
+    },
+    "Frutal-Ira\u00ed de Minas": {
+        "distancia": 250533,
+        "duracao": 12821
+    },
+    "Frutal-Itapagipe": {
+        "distancia": 51185,
+        "duracao": 2651
+    },
+    "Frutal-Jo\u00e3o Pinheiro": {
+        "distancia": 528684,
+        "duracao": 26260
+    },
+    "Frutal-Lagoa Formosa": {
+        "distancia": 394251,
+        "duracao": 19989
+    },
+    "Frutal-Luz": {
+        "distancia": 400820,
+        "duracao": 20449
+    },
+    "Frutal-Patos de Minas": {
+        "distancia": 377995,
+        "duracao": 19324
+    },
+    "Frutal-Patroc\u00ednio": {
+        "distancia": 319495,
+        "duracao": 15660
+    },
+    "Frutal-Presidente Oleg\u00e1rio": {
+        "distancia": 406751,
+        "duracao": 20905
+    },
+    "Frutal-Rio Parana\u00edba": {
+        "distancia": 373364,
+        "duracao": 18291
+    },
+    "Frutal-Romaria": {
+        "distancia": 262593,
+        "duracao": 13356
+    },
+    "Frutal-Santa Vit\u00f3ria": {
+        "distancia": 237061,
+        "duracao": 11201
+    },
+    "Frutal-S\u00e3o Gotardo": {
+        "distancia": 371440,
+        "duracao": 19154
+    },
+    "Frutal-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 1123598,
+        "duracao": 56368
+    },
+    "Frutal-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 368577,
+        "duracao": 19347
+    },
+    "Frutal-Tiros": {
+        "distancia": 416101,
+        "duracao": 21450
+    },
+    "Frutal-Uberaba": {
+        "distancia": 127920,
+        "duracao": 6680
+    },
+    "Guimar\u00e2nia-Ira\u00ed de Minas": {
+        "distancia": 87194,
+        "duracao": 4714
+    },
+    "Guimar\u00e2nia-Itapagipe": {
+        "distancia": 387150,
+        "duracao": 19192
+    },
+    "Guimar\u00e2nia-Jo\u00e3o Pinheiro": {
+        "distancia": 196861,
+        "duracao": 9671
+    },
+    "Guimar\u00e2nia-Lagoa Formosa": {
+        "distancia": 62428,
+        "duracao": 3400
+    },
+    "Guimar\u00e2nia-Luz": {
+        "distancia": 218380,
+        "duracao": 10496
+    },
+    "Guimar\u00e2nia-Patos de Minas": {
+        "distancia": 46172,
+        "duracao": 2735
+    },
+    "Guimar\u00e2nia-Patroc\u00ednio": {
+        "distancia": 27599,
+        "duracao": 1935
+    },
+    "Guimar\u00e2nia-Presidente Oleg\u00e1rio": {
+        "distancia": 74928,
+        "duracao": 4316
+    },
+    "Guimar\u00e2nia-Rio Parana\u00edba": {
+        "distancia": 97670,
+        "duracao": 4893
+    },
+    "Guimar\u00e2nia-Romaria": {
+        "distancia": 102711,
+        "duracao": 5297
+    },
+    "Guimar\u00e2nia-Santa Vit\u00f3ria": {
+        "distancia": 381897,
+        "duracao": 17909
+    },
+    "Guimar\u00e2nia-S\u00e3o Gotardo": {
+        "distancia": 135001,
+        "duracao": 6751
+    },
+    "Guimar\u00e2nia-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 791775,
+        "duracao": 39778
+    },
+    "Guimar\u00e2nia-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 95339,
+        "duracao": 5159
+    },
+    "Guimar\u00e2nia-Tiros": {
+        "distancia": 142068,
+        "duracao": 7771
+    },
+    "Guimar\u00e2nia-Uberaba": {
+        "distancia": 204795,
+        "duracao": 10932
+    },
+    "Ira\u00ed de Minas-Itapagipe": {
+        "distancia": 302182,
+        "duracao": 14827
+    },
+    "Ira\u00ed de Minas-Jo\u00e3o Pinheiro": {
+        "distancia": 280246,
+        "duracao": 13771
+    },
+    "Ira\u00ed de Minas-Lagoa Formosa": {
+        "distancia": 145812,
+        "duracao": 7500
+    },
+    "Ira\u00ed de Minas-Luz": {
+        "distancia": 281844,
+        "duracao": 13761
+    },
+    "Ira\u00ed de Minas-Patos de Minas": {
+        "distancia": 129557,
+        "duracao": 6835
+    },
+    "Ira\u00ed de Minas-Patroc\u00ednio": {
+        "distancia": 63084,
+        "duracao": 3373
+    },
+    "Ira\u00ed de Minas-Presidente Oleg\u00e1rio": {
+        "distancia": 158313,
+        "duracao": 8416
+    },
+    "Ira\u00ed de Minas-Rio Parana\u00edba": {
+        "distancia": 161134,
+        "duracao": 8158
+    },
+    "Ira\u00ed de Minas-Romaria": {
+        "distancia": 27138,
+        "duracao": 1506
+    },
+    "Ira\u00ed de Minas-Santa Vit\u00f3ria": {
+        "distancia": 306324,
+        "duracao": 14118
+    },
+    "Ira\u00ed de Minas-S\u00e3o Gotardo": {
+        "distancia": 198465,
+        "duracao": 10016
+    },
+    "Ira\u00ed de Minas-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 875159,
+        "duracao": 43878
+    },
+    "Ira\u00ed de Minas-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 178724,
+        "duracao": 9259
+    },
+    "Ira\u00ed de Minas-Tiros": {
+        "distancia": 220450,
+        "duracao": 11593
+    },
+    "Ira\u00ed de Minas-Uberaba": {
+        "distancia": 119827,
+        "duracao": 6567
+    },
+    "Itapagipe-Jo\u00e3o Pinheiro": {
+        "distancia": 580517,
+        "duracao": 28595
+    },
+    "Itapagipe-Lagoa Formosa": {
+        "distancia": 446083,
+        "duracao": 22324
+    },
+    "Itapagipe-Luz": {
+        "distancia": 452653,
+        "duracao": 22784
+    },
+    "Itapagipe-Patos de Minas": {
+        "distancia": 429827,
+        "duracao": 21659
+    },
+    "Itapagipe-Patroc\u00ednio": {
+        "distancia": 371327,
+        "duracao": 17995
+    },
+    "Itapagipe-Presidente Oleg\u00e1rio": {
+        "distancia": 458584,
+        "duracao": 23241
+    },
+    "Itapagipe-Rio Parana\u00edba": {
+        "distancia": 425196,
+        "duracao": 20626
+    },
+    "Itapagipe-Romaria": {
+        "distancia": 301185,
+        "duracao": 15150
+    },
+    "Itapagipe-Santa Vit\u00f3ria": {
+        "distancia": 186356,
+        "duracao": 9653
+    },
+    "Itapagipe-S\u00e3o Gotardo": {
+        "distancia": 423272,
+        "duracao": 21489
+    },
+    "Itapagipe-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 1175430,
+        "duracao": 58703
+    },
+    "Itapagipe-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 420409,
+        "duracao": 21682
+    },
+    "Itapagipe-Tiros": {
+        "distancia": 467933,
+        "duracao": 23785
+    },
+    "Itapagipe-Uberaba": {
+        "distancia": 179752,
+        "duracao": 9015
+    },
+    "Jo\u00e3o Pinheiro-Lagoa Formosa": {
+        "distancia": 172430,
+        "duracao": 8214
+    },
+    "Jo\u00e3o Pinheiro-Luz": {
+        "distancia": 345545,
+        "duracao": 16146
+    },
+    "Jo\u00e3o Pinheiro-Patos de Minas": {
+        "distancia": 153461,
+        "duracao": 7470
+    },
+    "Jo\u00e3o Pinheiro-Patroc\u00ednio": {
+        "distancia": 220345,
+        "duracao": 10824
+    },
+    "Jo\u00e3o Pinheiro-Presidente Oleg\u00e1rio": {
+        "distancia": 124029,
+        "duracao": 5712
+    },
+    "Jo\u00e3o Pinheiro-Rio Parana\u00edba": {
+        "distancia": 246868,
+        "duracao": 11500
+    },
+    "Jo\u00e3o Pinheiro-Romaria": {
+        "distancia": 295457,
+        "duracao": 14186
+    },
+    "Jo\u00e3o Pinheiro-Santa Vit\u00f3ria": {
+        "distancia": 574643,
+        "duracao": 26798
+    },
+    "Jo\u00e3o Pinheiro-S\u00e3o Gotardo": {
+        "distancia": 262167,
+        "duracao": 12400
+    },
+    "Jo\u00e3o Pinheiro-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 700817,
+        "duracao": 35085
+    },
+    "Jo\u00e3o Pinheiro-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 205341,
+        "duracao": 9974
+    },
+    "Jo\u00e3o Pinheiro-Tiros": {
+        "distancia": 252071,
+        "duracao": 12585
+    },
+    "Jo\u00e3o Pinheiro-Uberaba": {
+        "distancia": 397541,
+        "duracao": 19822
+    },
+    "Lagoa Formosa-Luz": {
+        "distancia": 175015,
+        "duracao": 8342
+    },
+    "Lagoa Formosa-Patos de Minas": {
+        "distancia": 25347,
+        "duracao": 1676
+    },
+    "Lagoa Formosa-Patroc\u00ednio": {
+        "distancia": 87213,
+        "duracao": 4842
+    },
+    "Lagoa Formosa-Presidente Oleg\u00e1rio": {
+        "distancia": 50965,
+        "duracao": 3082
+    },
+    "Lagoa Formosa-Rio Parana\u00edba": {
+        "distancia": 76338,
+        "duracao": 3697
+    },
+    "Lagoa Formosa-Romaria": {
+        "distancia": 162324,
+        "duracao": 8204
+    },
+    "Lagoa Formosa-Santa Vit\u00f3ria": {
+        "distancia": 441510,
+        "duracao": 20815
+    },
+    "Lagoa Formosa-S\u00e3o Gotardo": {
+        "distancia": 91636,
+        "duracao": 4597
+    },
+    "Lagoa Formosa-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 767812,
+        "duracao": 38544
+    },
+    "Lagoa Formosa-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 34811,
+        "duracao": 2170
+    },
+    "Lagoa Formosa-Tiros": {
+        "distancia": 81540,
+        "duracao": 4782
+    },
+    "Lagoa Formosa-Uberaba": {
+        "distancia": 264408,
+        "duracao": 13839
+    },
+    "Luz-Patos de Minas": {
+        "distancia": 198496,
+        "duracao": 9664
+    },
+    "Luz-Patroc\u00ednio": {
+        "distancia": 212949,
+        "duracao": 10926
+    },
+    "Luz-Presidente Oleg\u00e1rio": {
+        "distancia": 224115,
+        "duracao": 11070
+    },
+    "Luz-Rio Parana\u00edba": {
+        "distancia": 119974,
+        "duracao": 5977
+    },
+    "Luz-Romaria": {
+        "distancia": 291419,
+        "duracao": 14459
+    },
+    "Luz-Santa Vit\u00f3ria": {
+        "distancia": 544813,
+        "duracao": 25892
+    },
+    "Luz-S\u00e3o Gotardo": {
+        "distancia": 106312,
+        "duracao": 5658
+    },
+    "Luz-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 855528,
+        "duracao": 42841
+    },
+    "Luz-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 147829,
+        "duracao": 7418
+    },
+    "Luz-Tiros": {
+        "distancia": 150973,
+        "duracao": 7954
+    },
+    "Luz-Uberaba": {
+        "distancia": 276715,
+        "duracao": 14557
+    },
+    "Patos de Minas-Patroc\u00ednio": {
+        "distancia": 69986,
+        "duracao": 4054
+    },
+    "Patos de Minas-Presidente Oleg\u00e1rio": {
+        "distancia": 30384,
+        "duracao": 2277
+    },
+    "Patos de Minas-Rio Parana\u00edba": {
+        "distancia": 99789,
+        "duracao": 4906
+    },
+    "Patos de Minas-Romaria": {
+        "distancia": 145098,
+        "duracao": 7416
+    },
+    "Patos de Minas-Santa Vit\u00f3ria": {
+        "distancia": 424284,
+        "duracao": 20027
+    },
+    "Patos de Minas-S\u00e3o Gotardo": {
+        "distancia": 115087,
+        "duracao": 5806
+    },
+    "Patos de Minas-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 754888,
+        "duracao": 38029
+    },
+    "Patos de Minas-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 58262,
+        "duracao": 3379
+    },
+    "Patos de Minas-Tiros": {
+        "distancia": 104991,
+        "duracao": 5991
+    },
+    "Patos de Minas-Uberaba": {
+        "distancia": 247182,
+        "duracao": 13051
+    },
+    "Patroc\u00ednio-Presidente Oleg\u00e1rio": {
+        "distancia": 98622,
+        "duracao": 5525
+    },
+    "Patroc\u00ednio-Rio Parana\u00edba": {
+        "distancia": 99008,
+        "duracao": 5213
+    },
+    "Patroc\u00ednio-Romaria": {
+        "distancia": 78847,
+        "duracao": 3886
+    },
+    "Patroc\u00ednio-Santa Vit\u00f3ria": {
+        "distancia": 358033,
+        "duracao": 16498
+    },
+    "Patroc\u00ednio-S\u00e3o Gotardo": {
+        "distancia": 136339,
+        "duracao": 7071
+    },
+    "Patroc\u00ednio-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 815468,
+        "duracao": 40987
+    },
+    "Patroc\u00ednio-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 119032,
+        "duracao": 6368
+    },
+    "Patroc\u00ednio-Tiros": {
+        "distancia": 158324,
+        "duracao": 8648
+    },
+    "Patroc\u00ednio-Uberaba": {
+        "distancia": 189279,
+        "duracao": 9495
+    },
+    "Presidente Oleg\u00e1rio-Rio Parana\u00edba": {
+        "distancia": 124876,
+        "duracao": 6210
+    },
+    "Presidente Oleg\u00e1rio-Romaria": {
+        "distancia": 173465,
+        "duracao": 8896
+    },
+    "Presidente Oleg\u00e1rio-Santa Vit\u00f3ria": {
+        "distancia": 452651,
+        "duracao": 21507
+    },
+    "Presidente Oleg\u00e1rio-S\u00e3o Gotardo": {
+        "distancia": 140174,
+        "duracao": 7110
+    },
+    "Presidente Oleg\u00e1rio-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 769955,
+        "duracao": 38986
+    },
+    "Presidente Oleg\u00e1rio-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 83349,
+        "duracao": 4683
+    },
+    "Presidente Oleg\u00e1rio-Tiros": {
+        "distancia": 130078,
+        "duracao": 7294
+    },
+    "Presidente Oleg\u00e1rio-Uberaba": {
+        "distancia": 275549,
+        "duracao": 14531
+    },
+    "Rio Parana\u00edba-Romaria": {
+        "distancia": 177226,
+        "duracao": 8782
+    },
+    "Rio Parana\u00edba-Santa Vit\u00f3ria": {
+        "distancia": 456412,
+        "duracao": 21393
+    },
+    "Rio Parana\u00edba-S\u00e3o Gotardo": {
+        "distancia": 36337,
+        "duracao": 2055
+    },
+    "Rio Parana\u00edba-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 842248,
+        "duracao": 41733
+    },
+    "Rio Parana\u00edba-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 49116,
+        "duracao": 2619
+    },
+    "Rio Parana\u00edba-Tiros": {
+        "distancia": 58322,
+        "duracao": 3632
+    },
+    "Rio Parana\u00edba-Uberaba": {
+        "distancia": 248795,
+        "duracao": 12533
+    },
+    "Romaria-Santa Vit\u00f3ria": {
+        "distancia": 296999,
+        "duracao": 13683
+    },
+    "Romaria-S\u00e3o Gotardo": {
+        "distancia": 214725,
+        "duracao": 10690
+    },
+    "Romaria-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 891419,
+        "duracao": 44552
+    },
+    "Romaria-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 194983,
+        "duracao": 9933
+    },
+    "Romaria-Tiros": {
+        "distancia": 236710,
+        "duracao": 12267
+    },
+    "Romaria-Uberaba": {
+        "distancia": 131494,
+        "duracao": 7044
+    },
+    "Santa Vit\u00f3ria-S\u00e3o Gotardo": {
+        "distancia": 494065,
+        "duracao": 23625
+    },
+    "Santa Vit\u00f3ria-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 1170759,
+        "duracao": 57488
+    },
+    "Santa Vit\u00f3ria-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 474324,
+        "duracao": 22869
+    },
+    "Santa Vit\u00f3ria-Tiros": {
+        "distancia": 516050,
+        "duracao": 25203
+    },
+    "Santa Vit\u00f3ria-Uberaba": {
+        "distancia": 315569,
+        "duracao": 14314
+    },
+    "S\u00e3o Gotardo-S\u00e3o Jo\u00e3o do Para\u00edso": {
+        "distancia": 857483,
+        "duracao": 42547
+    },
+    "S\u00e3o Gotardo-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 64350,
+        "duracao": 3433
+    },
+    "S\u00e3o Gotardo-Tiros": {
+        "distancia": 46280,
+        "duracao": 2564
+    },
+    "S\u00e3o Gotardo-Uberaba": {
+        "distancia": 246928,
+        "duracao": 13187
+    },
+    "S\u00e3o Jo\u00e3o do Para\u00edso-S\u00e3o Pedro do Parana\u00edba": {
+        "distancia": 801428,
+        "duracao": 39410
+    },
+    "S\u00e3o Jo\u00e3o do Para\u00edso-Tiros": {
+        "distancia": 848157,
+        "duracao": 42022
+    },
+    "S\u00e3o Jo\u00e3o do Para\u00edso-Uberaba": {
+        "distancia": 993628,
+        "duracao": 49258
+    },
+    "S\u00e3o Pedro do Parana\u00edba-Tiros": {
+        "distancia": 54009,
+        "duracao": 3641
+    },
+    "S\u00e3o Pedro do Parana\u00edba-Uberaba": {
+        "distancia": 244041,
+        "duracao": 13588
+    },
+    "Tiros-Uberaba": {
+        "distancia": 291347,
+        "duracao": 15513
+    }
+}
