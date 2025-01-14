@@ -89,33 +89,24 @@ O script irá:
 - **Pheromone:** A variável `pheromone` armazena os níveis de feromônio em cada aresta, influenciando a escolha de caminhos pelas formigas em iterações subsequentes.
 - **Visualização:** As melhores rotas são plotadas em um mapa interativo utilizando a biblioteca Folium, com cores distintas para cada rota e tooltips informativos.
 
-  ## 🌈 Visualização das Três Melhores Rotas
+## 🌈 Visualização das Três Melhores Rotas
 
 O sistema apresenta as três melhores rotas em sessões distintas, destacando cada uma com uma cor diferente. Abaixo, veja uma visualização de cada rota:
 
 ### Rota 1
-- **Cor:** Vermelho
-- **Descrição:** Esta rota é apresentada em destaque na cor vermelha. Ela representa um dos caminhos otimizados pela colônia de formigas, mostrando a sequência de cidades que a transportadora percorrerá, saindo e retornando a Patrocínio.
 - **Imagem da Rota 1:**
   
-  ![Rota 1](caminho/para/sua_imagem_rota1.png)  
-  *Descrição opcional da imagem da Rota 1.*
+  ![Rota 1](https://github.com/Micael-Resende/Algoritmo-ACO/blob/master/images/rota1.png)  
 
 ### Rota 2
-- **Cor:** Azul
-- **Descrição:** A segunda melhor rota é destacada em azul. Este caminho alternativo também passa por todas as cidades relevantes do Alto Paranaíba, oferecendo uma opção diferenciada em termos de custo, tempo ou distância.
 - **Imagem da Rota 2:**
   
-  ![Rota 2](caminho/para/sua_imagem_rota2.png)  
-  *Descrição opcional da imagem da Rota 2.*
+  ![Rota 2](https://github.com/Micael-Resende/Algoritmo-ACO/blob/master/images/rota2.png)  
 
 ### Rota 3
-- **Cor:** Verde
-- **Descrição:** A terceira rota é evidenciada em verde, apresentando mais uma alternativa otimizada. Assim como as demais, ela parte e retorna a Patrocínio, passando por todas as cidades do grafo.
 - **Imagem da Rota 3:**
   
-  ![Rota 3](caminho/para/sua_imagem_rota3.png)  
-  *Descrição opcional da imagem da Rota 3.*
+  ![Rota 3](https://github.com/Micael-Resende/Algoritmo-ACO/blob/master/images/rota3.png)  
 
 
 ## 🛠️ Personalização e Expansões Futuras
